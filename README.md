@@ -4,7 +4,7 @@ A simple Flutter project showcasing various **SpinKit** loaders in a structured 
 
 ## 📸 Screenshot
 
-![App Screenshot](lib/assets/screenshots/screenshot.png)
+![App Screenshot](assets/screenshots/screenshot.png)
 
 ## 📂 Project Structure
 
